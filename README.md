@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkmia793&layout=compact&theme=radical&hide=shaderlab,hlsl,css" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkmia793&layout=compact&theme=radical&hide=shaderlab,hlsl,css,html" height="195" />
 </a>
 
 <br>
