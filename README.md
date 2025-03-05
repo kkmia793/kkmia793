@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkmia793&count_private=true&show_icons=true&theme=radical" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kkmia793&count_private=true&show_icons=true" height="195" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
