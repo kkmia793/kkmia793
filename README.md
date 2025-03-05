@@ -1,10 +1,12 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkmia793&count_private=true&show_icons=true&theme=radical&cache_seconds=1800" height="195" />
-</a>
+## Profile 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkmia793&layout=compact&theme=radical&hide=shaderlab,hlsl,css,html&cache_seconds=1800" height="195" />
-</a>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkmia793&theme=radical)](https://github.com/kkmia793)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kkmia793&theme=radical)](https://github.com/kkmia793)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kkmia793&theme=radical)](https://github.com/kkmia793)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kkmia793&theme=radical)](https://github.com/kkmia793)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kkmia793&theme=radical&utcOffset=9)](https://github.com/kkmia793)
+
 
 ---
 
