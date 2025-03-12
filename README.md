@@ -9,5 +9,3 @@
 
 
 ---
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kkmia793&theme=radical&column=6&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
