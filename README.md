@@ -1,4 +1,6 @@
-## Profile 
+## Profile
+
+👾👾 Hello! I’m a game engineer👾👾
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkmia793&theme=radical)](https://github.com/kkmia793)
 
