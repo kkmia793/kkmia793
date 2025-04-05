@@ -1,6 +1,6 @@
 # Profile
 
-## 👾 Game Developer 👾 
+## 👾 Game Engineer 👾 
 
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkmia793&theme=radical)](https://github.com/kkmia793)
