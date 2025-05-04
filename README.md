@@ -8,7 +8,7 @@
     </h1>
 </div>
 
-<br><br><br>
+<br><br>
 
 <!-- 最上部：コントリビューショングラフ + 使用言語 -->
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
